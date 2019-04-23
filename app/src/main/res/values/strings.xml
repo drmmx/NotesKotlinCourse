@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="title_activity_navigation">Navigation Activity</string>
+
+    <string name="title_tasks">Tasks</string>
+    <string name="title_note">Notes</string>
+    <string name="title_save">Save</string>
+
+    <string name="add_button_task">Add New Task</string>
+    <string name="add_button_note">Add New Note</string>
+    <string name="add_new_task">Add new task…</string>
+    <string name="add_new_todo">Add new todo…</string>
+    <string name="add_new_note">Add new note…</string>
+
+    <string name="toast_error_saving">Error! Could not save!</string>
+
+</resources>
